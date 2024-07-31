@@ -1,0 +1,5 @@
+﻿  01_Classes_Objects.cpp
+D:\Study\My Practice\C++\google_Prepration\01_Classes_Objects\Employee.cpp(2,1): error C2059: syntax error: 'using namespace'
+  myCarClass.cpp
+D:\Study\My Practice\C++\google_Prepration\01_Classes_Objects\myCarClass.cpp(70,1): error C1004: unexpected end-of-file found
+  Generating Code...
